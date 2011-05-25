@@ -1,0 +1,3 @@
+[submodule "bigsignal"]
+	path = bigsignal
+	url = git@github.com:rranshous/bigsignal
