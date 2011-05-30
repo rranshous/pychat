@@ -19,3 +19,6 @@ class Client():
 
     def receive_message(self):
         pass
+
+    def iter_messages(self):
+        pass
